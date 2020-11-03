@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="dvja-1.05.war">
+    <root id="archive" name="dvja-1.10.war">
       <element id="artifact" artifact-name="dvja:war exploded" />
     </root>
   </artifact>
